@@ -4,11 +4,12 @@
   "description": "Trying to make a youtube clone w/ vanila JS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Cesar A. Gomez Vives",
   "license": "ISC",
   "dependencies": {
+    "@babel/node": "^7.13.13",
     "express": "^4.17.1"
   }
 }
